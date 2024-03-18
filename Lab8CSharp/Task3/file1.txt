@@ -1,0 +1,3 @@
+This is a sample text file to demonstrate the program.
+It contains words that will be compared with the second file.
+Some words may appear in this file but not in the second file.
